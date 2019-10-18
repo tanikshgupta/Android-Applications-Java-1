@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\5a2fbc1e2d5ab13923f53e263571b04a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e064b9b9e2598ddd1f641875777d3acf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\4d4601e3db3353880c065b2179279644\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:16:5-51:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e064b9b9e2598ddd1f641875777d3acf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e064b9b9e2598ddd1f641875777d3acf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\4d4601e3db3353880c065b2179279644\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\4d4601e3db3353880c065b2179279644\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:32:13-58
+activity#com.parse.starter.DriverLocationActivity
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:35:9-37:79
+	android:label
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:37:13-67
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:36:13-51
+activity#com.parse.starter.ViewRequestsActivity
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:9-58
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:38:19-55
+activity#com.parse.starter.RiderActivity
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:39:9-41:60
+	android:label
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:41:13-57
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:40:13-42
+activity#com.parse.starter.MainActivity
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:43:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml:48:27-74
+uses-sdk
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\5a2fbc1e2d5ab13923f53e263571b04a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\5a2fbc1e2d5ab13923f53e263571b04a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e064b9b9e2598ddd1f641875777d3acf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e064b9b9e2598ddd1f641875777d3acf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\4d4601e3db3353880c065b2179279644\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\4d4601e3db3353880c065b2179279644\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrikrishna\Android-Applications-Java\Uber\ParseStarterProject\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ef648b4a687369dfe8c325684abc444b\AndroidManifest.xml:28:9-32
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\c77cd24d51dc1714b690f8801ad74768\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\d12f5e675c95ff9fb84766b6539a2fb1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\13ba99b92c908bcbb668065a33aab58d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\2deef208aa8ce2f1510cd8a7a2312fa9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\e5adb7f6e73d007352ba7c64032a3ac4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\88d2b0974bc4ca7669988c0af9487aa1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\ba6589018f093841d8042c3a54ff4747\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\1ad8ed2691daa786a1f8edabbb0a6ee5\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\763d2a60075c069e226292f2e916c026\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\cd222758e6b0871f960663ceecb89b62\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\55bc91136e1ddc236a84d64e55532743\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\shrikrishna\.gradle\caches\transforms-2\files-2.1\25d16cbfe4db96932dc5ba25c724594a\AndroidManifest.xml:26:13-58
